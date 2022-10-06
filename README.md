@@ -5,11 +5,16 @@
 <p>Os projetos contidos neste repositório usam de componentes como LEDs, Buzzers, Push Buttons, teclados matriciais e sensores de fumaça, distância, luminosidade, temperatura e movimento, além do componente do Arduino e de Protoboard.</p> 
 
 ## [LED liga desliga](https://github.com/babimingatos/arduino/tree/main/LED%20Liga-Desliga)
+<html>
+  <figure>
+    <img src="LED Liga-Desliga/LED_liga_desliga.jpg"></img>
+  </figure>
+</html>
 
-<figure>
-  <img src="LED Liga-Desliga/LED_liga_desliga.jpg"></img>
-</figure>
-<h2>5 LEDs</h2>
-<figure>
-  <img src="5 LEDs/cinco_leds.jpg"></img>
-</figure>
+## [5 Leds](https://github.com/babimingatos/arduino/tree/main/LED%20Liga-Desliga)
+
+<html>
+  <figure>
+    <img src="5 LEDs/cinco_leds.jpg"></img>
+  </figure>
+</html>

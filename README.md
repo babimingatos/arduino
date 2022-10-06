@@ -4,7 +4,7 @@
 <p>Os projetos foram feitos fisicamente, com o código escrito pela IDE do Arduino, e pelo TinkerCAD. Neste repositório estão contidos os documentos descritivos, os códigos feitos pela IDE do Arduino e imagens dos circuitos feitos no TinkerCAD de cada projeto feito em sala e do projeto final.</p>
 <p>Os projetos contidos neste repositório usam de componentes como LEDs, Buzzers, Push Buttons, teclados matriciais e sensores de fumaça, distância, luminosidade, temperatura e movimento, além do componente do Arduino e de Protoboard.</p> 
 
-## [LED liga desliga](https://github.com/babimingatos/arduino/tree/main/LED%20Liga-Desliga)
+## [LED Liga-Desliga](https://github.com/babimingatos/arduino/tree/main/LED%20Liga-Desliga)
 <html>
   <figure>
     <img src="https://user-images.githubusercontent.com/72284498/194410118-5a13e404-4ae4-40e2-a355-efa661cc139f.jpg"></img>

@@ -23,7 +23,7 @@
 
 <html>
   <figure>
-    <img src="Push Button/PushButton.jpg"></img>
+    <img src="Push Button/PushButton.png"></img>
   </figure>
 </html>
 

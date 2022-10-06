@@ -7,7 +7,8 @@
 ## [LED liga desliga](https://github.com/babimingatos/arduino/tree/main/LED%20Liga-Desliga)
 <html>
   <figure>
-    <img src="LED Liga-Desliga/LED_liga_desliga.jpg"></img>
+    <img src="![LED_liga_desliga](https://user-images.githubusercontent.com/72284498/194410118-5a13e404-4ae4-40e2-a355-efa661cc139f.jpg)
+"></img>
   </figure>
 </html>
 

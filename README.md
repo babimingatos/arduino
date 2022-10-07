@@ -43,3 +43,12 @@
   </figure>
 </html>
 
+## [Teclado Matricial](https://github.com/babimingatos/arduino/tree/main/Teclado%20Matricial%20(Keypad))
+<html>
+  <figure>
+    <img src="https://user-images.githubusercontent.com/72284498/194450783-a99427fa-4c99-4866-9119-d89a8b1d4a36.png"></img>
+  </figure>
+</html>
+
+
+

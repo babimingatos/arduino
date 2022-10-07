@@ -4,10 +4,18 @@
 <p> Os projetos foram feitos fisicamente, com o código escrito pela IDE do Arduino e pelo TinkerCAD. Neste repositório estão contidos os documentos descritivos, os códigos e imagens dos circuitos feitos no TinkerCAD.</p>
 <p> Todos os projetos contidos neste repositório usam de componentes como LEDs, Buzzers, Push Buttons, teclados matriciais e sensores de fumaça, distância, luminosidade, temperatura e movimento, além do componente do Arduino Uno R3 e de Protoboard.</p> 
 
+## [Controlador de Ambiente](https://github.com/babimingatos/arduino/tree/main/Controlador%20de%20Ambiente)
+
+<html>
+  <figure>
+    <img src="https://user-images.githubusercontent.com/72284498/194446129-5a440caf-bdea-4f04-a4c8-2014a1aa4467.png"></img>
+  </figure>
+</html>
+
 ## [LED Liga-Desliga](https://github.com/babimingatos/arduino/tree/main/LED%20Liga-Desliga)
 <html>
   <figure>
-    <img src="https://user-images.githubusercontent.com/72284498/194410118-5a13e404-4ae4-40e2-a355-efa661cc139f.jpg"></img>
+    <img src="https://user-images.githubusercontent.com/72284498/194410118-5a13e404-4ae4-40e2-a355-efa661cc139f.jpg" width=70%></img>
   </figure>
 </html>
 
@@ -15,7 +23,7 @@
 
 <html>
   <figure>
-    <img src="5 LEDs/cinco_leds.jpg"></img>
+    <img src="https://user-images.githubusercontent.com/72284498/194414939-d7c55a9d-2781-4f7a-9fb6-50cc1c19c9da.png" width=70%></img>
   </figure>
 </html>
 
@@ -34,3 +42,4 @@
     <img src="Push Button com LED/push_button_com_led.jpg"></img>
   </figure>
 </html>
+

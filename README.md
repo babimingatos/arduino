@@ -5,7 +5,6 @@
 <p> Todos os projetos contidos neste repositório usam de componentes como LEDs, Buzzers, Push Buttons, teclados matriciais e sensores de fumaça, distância, luminosidade, temperatura e movimento, além do componente do Arduino Uno R3 e de Protoboard.</p> 
 
 ## [Controlador de Ambiente](https://github.com/babimingatos/arduino/tree/main/Controlador%20de%20Ambiente)
-
 <html>
   <figure>
     <img src="https://user-images.githubusercontent.com/72284498/194446129-5a440caf-bdea-4f04-a4c8-2014a1aa4467.png"></img>
@@ -20,23 +19,13 @@
 </html>
 
 ## [5 Leds](https://github.com/babimingatos/arduino/tree/main/LED%20Liga-Desliga)
-
 <html>
   <figure>
     <img src="https://user-images.githubusercontent.com/72284498/194414939-d7c55a9d-2781-4f7a-9fb6-50cc1c19c9da.png" width=70%></img>
   </figure>
 </html>
 
-## [Push Button](https://github.com/babimingatos/arduino/tree/main/Push%20Button)
-
-<html>
-  <figure>
-    <img src="Push Button/PushButton.png"></img>
-  </figure>
-</html>
-
 ## [Push Button com LED](https://github.com/babimingatos/arduino/tree/main/Push%20Button%20com%20LED)
-
 <html>
   <figure>
     <img src="Push Button com LED/push_button_com_led.jpg"></img>

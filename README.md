@@ -28,7 +28,7 @@
 ## [Push Button com LED](https://github.com/babimingatos/arduino/tree/main/Push%20Button%20com%20LED)
 <html>
   <figure>
-    <img src="Push Button com LED/push_button_com_led.jpg"></img>
+    <img src="https://user-images.githubusercontent.com/72284498/194452194-4be51c95-713b-4d08-8f32-a58dce85ed14.png"></img>
   </figure>
 </html>
 

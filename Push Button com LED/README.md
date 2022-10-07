@@ -1,5 +1,5 @@
 
-# Descrição do circuito- Controlador de ambiente
+# Descrição do circuito- Push button com led
 
 &emsp; Este projeto consiste no uso do Arduíno para ativar um sinal luminoso, representado por um LED, por meio da ativação de um botão Push Button, e, consequentemente, para desativar o LED quando o botão está em estado de repouso.
 

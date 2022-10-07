@@ -3,7 +3,7 @@
 
 # Descrição do circuito- Porta com senha
 
-</br>&emsp; Neste circuito, um Teclado Matricial (Keypad) 4x4, junto com um LED e um monitor LCD, vai ser utilizado em um circuito aliado a um monitor LCD para fazer uma porta com senha.
+&emsp; Neste circuito, um Teclado Matricial (Keypad) 4x4, junto com um LED e um monitor LCD, vai ser utilizado em um circuito aliado a um monitor LCD para fazer uma porta com senha.
 
 
 ## Materiais

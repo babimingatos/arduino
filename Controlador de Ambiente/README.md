@@ -2,7 +2,6 @@
 
 &emsp; Neste circuito, terá vários componentes como: sensor de luminosidade, temperatura e de movimento. Juntos, eles mostrarão as informações por meio de uma tela LCD.
 
-
 ## Materiais
 ```sh
 

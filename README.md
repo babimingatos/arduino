@@ -1,8 +1,8 @@
 # Arduino
 
-<p> Este repositório contém os exercícios feitos durante as aulas de Laboratório de Hardware pelos alunos André, Bárbara, Gustavo Sant'Anna, João Vinícius e Lucas Felipe do 1º Semestre de Análise e Desenvolvimento de Sistemas do 1º Semestre de 2022.</p>
-<p> Os projetos foram feitos fisicamente, com o código escrito pela IDE do Arduino e pelo TinkerCAD. Neste repositório estão contidos os documentos descritivos, os códigos e imagens dos circuitos feitos no TinkerCAD.</p>
-<p> Todos os projetos contidos neste repositório usam de componentes como LEDs, Buzzers, Push Buttons, teclados matriciais e sensores de fumaça, distância, luminosidade, temperatura e movimento, além do componente do Arduino Uno R3 e de Protoboard.</p> 
+Este repositório contém os exercícios feitos durante as aulas de Laboratório de Hardware pelos alunos [André](https://github.com/AndreMarcosOliveiraDeToledo), [Bárbara](https://github.com/babimingatos), [Gustavo Santos](https://github.com/stringGustavo), [João Vinícius](https://github.com/JVini1) e [Lucas Felipe](https://github.com/LucasFelipeNunes) do 1º Semestre de Análise e Desenvolvimento de Sistemas do 1º Semestre de 2022 da Faculdade de Tecnologia de Guaratinguetá Professor João Mod.
+ Os projetos foram feitos fisicamente, com o código escrito pela IDE do Arduino, e pelo TinkerCAD. Neste repositório estão contidos os documentos descritivos, os códigos e imagens dos circuitos feitos no TinkerCAD.
+Os projetos contidos neste repositório usam de componentes como LEDs, Buzzers, Push Buttons, teclados matriciais e sensores de fumaça, distância, luminosidade, temperatura e movimento, além do componente do Arduino Uno R3 e de Protoboard.
 
 ## [Controlador de Ambiente](https://github.com/babimingatos/arduino/tree/main/Controlador%20de%20Ambiente)
 <html>
@@ -38,11 +38,25 @@
     <img src="https://user-images.githubusercontent.com/72284498/194450783-a99427fa-4c99-4866-9119-d89a8b1d4a36.png"></img>
   </figure>
 </html>
-
-## [Porta com senha](https://github.com/babimingatos/arduino/tree/main/Porta%20com%20Senha)
+ 
+ ## [Porta com senha](https://github.com/babimingatos/arduino/tree/main/Porta%20com%20Senha)
 <html>
   <figure>
     <img src="https://user-images.githubusercontent.com/72284498/194449192-27e91760-0122-4763-b2f8-7308d608249e.png"></img>
   </figure>
 </html>
 
+## [Sirene](https://github.com/babimingatos/arduino/tree/main/Sirene)
+<html>
+  <figure>
+    <img src="https://github.com/babimingatos/arduino/blob/main/Sirene/sirene_policial.jpg"></img>
+  </figure>
+</html>
+
+
+## [Sirene Giroflex 1](https://github.com/babimingatos/arduino/tree/main/Sirene%20Giroflex%201)
+<html>
+  <figure>
+    <img src="https://github.com/babimingatos/arduino/blob/main/Sirene%20Giroflex%201/sirene_com_giroflex_1.jpg"></img>
+  </figure>
+</html>

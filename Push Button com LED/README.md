@@ -12,7 +12,6 @@
 ●	 4 jumpers
 ●	 1 Protoboard
 
-
 ```
 ## Montagem
 &emsp; Para montar este circuito, como é mostrado na Figura 1, é preciso, primeiramente, ligar o pino de 5V do Arduino no terminal “+” do Protoboard, e o pino de GND no terminal “-”. Depois, deve-se conectar um jumper entre o terminal “+” e o terminal no qual está um dos pinos do Push Button do Protoboard. E, por fim, deve-se conectar, em outro terminal do botão, o pino 7 do Arduino, e um pino de um resistor, cuja outra ponta será conectada, por meio de um jumper, ao terminal “-” do Protoboard.

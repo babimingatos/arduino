@@ -4,11 +4,12 @@ Este projeto consiste no uso do Arduíno para ativar um sinal sonoro (representa
 
 ## Materiais
 
-1 resistor
-1 Buzzer
-2 jumpers
-1 Protoboard
-
+```sh
+• 1 resistor
+• 1 Buzzer
+• 2 jumpers
+• 1 Protoboard
+```
 ## Montagem
 
 Para se montar este circuito, é preciso apenas ligar o pino negativo do Buzzer em uma porta GND do Arduíno, e o pino positivo em uma porta PWM do Arduíno (no caso, a escolhida foi a 8), com ou sem a ajuda de jumpers ou do Protoboard.

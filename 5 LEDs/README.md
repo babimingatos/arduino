@@ -8,7 +8,6 @@ Este projeto consiste no uso do Arduíno para ativar cinco sinais luminosos, rep
 ●	5 LEDs
 ●	11 jumpers
 ●	1 Protoboard
-
 ```
 ## Montagem
 Como se vê na Figura 1, que mostra o desenho do circuito feito no TinkerCad, para se montar o circuito é preciso, primeiramente, ligar o pino GND do Arduino no pino “-” do Protoboard, e conectar este pino ao cátodo dos 5 LEDs, por intermédio de um resistor (e um jumper, se conveniente) para cada um. Por fim, é preciso apenas conectar as portas que serão utilizadas para controlar cada LED ao seu respectivo (no caso, as portas 0, 1, 2, 3 e 4 para os LEDs azul, cinza, amarelo, marrom e vermelho, respectivamente).

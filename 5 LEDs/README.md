@@ -18,4 +18,3 @@ Como se vê na Figura 1, que mostra o desenho do circuito feito no TinkerCad, pa
 ## Descrição do código
 
 O código, mostrado na Figura 2, primeiramente define que a porta 13 será utilizada para controlar o LED na aba de setup. Depois, na aba de loop, é definido que o LED ficará ligado por 1000 milisegundos, que equivale a 1 segundo, e desligado por outro segundo, reiniciando o ciclo após isto.
-

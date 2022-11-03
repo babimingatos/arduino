@@ -9,7 +9,6 @@ Materiais utilizados
 ●	2 jumpers
 ●	1 Protoboard
  ```
-
 # Montagem
 
 Como se vê na Figura, que mostra o desenho do circuito feito no TinkerCad, para se montar o circuito é preciso, primeiramente, ligar a porta GND do Arduino no catodo do LED, e depois ligar o resistor com um terminal no anodo deste e o outro na porta do Arduino que será utilizada com um jumper.

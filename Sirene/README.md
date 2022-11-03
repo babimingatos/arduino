@@ -1,5 +1,4 @@
 # Sirene
-
 Este projeto consiste no uso do Arduíno para ativar um sinal sonoro (representado por um Buzzer) por meio da função Tone, que emite estes sinais de forma analógica (ou seja, pode ter como saída um valor entre 0 e 255).
 
 ## Materiais

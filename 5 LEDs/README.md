@@ -1,5 +1,4 @@
 # Descrição do circuito- LED LIGA/DESLIGA
-
 Este projeto consiste no uso do Arduíno para ativar cinco sinais luminosos, representados por LEDs, ligados em diferentes portas, simultaneamente.
 
 ## Materiais

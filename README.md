@@ -52,7 +52,7 @@
 ## [Sirene](https://github.com/babimingatos/arduino/tree/main/Sirene)
 <html>
   <figure>
-    <img src="https://github.com/babimingatos/arduino/blob/main/Sirene/sirene_policial.jpg"></img>
+    <img src="https://user-images.githubusercontent.com/72284498/199748841-09f6846a-fec3-47aa-b30d-25aaaa4a01dd.png"></img>
   </figure>
 </html>
 

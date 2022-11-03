@@ -2,7 +2,7 @@
 
 <html>
 <p>Este repositório contém os exercícios feitos durante as aulas de Laboratório de Hardware pelos alunos <a href="https://github.com/AndreMarcosOliveiraDeToledo">André Marcos</a>, <a href="https://github.com/babimingatos">Bárbara Mingatos</a>, <a href="https://github.com/stringGustavo">Gustavo Santos</a>, <a href="https://github.com/JVini1">João Vinícius</a> e <a href="https://github.com/LucasFelipeNunes">Lucas Felipe</a> do 1º Semestre do curso de Análise e Desenvolvimento de Sistemas da Faculdade de Tecnologia de Guaratinguetá Professor João Mod, durante o 1º Semestre de 2022.</p>
-<p>Os projetos foram feitos fisicamente, com o código escrito pela IDE do Arduino, e pelo TinkerCAD. Neste repositório estão contidos os documentos descritivos, os códigos e imagens dos circuitos feitos no TinkerCAD.</p>
+<p>Os projetos foram feitos fisicamente, com o código escrito pela IDE do Arduino, e pelo TinkerCAD. Neste repositório estão contidos os documentos descritivos, os códigos e imagens dos circuitos feitos no TinkerCAD, separados em uma pasta para cada projeto desenvolvido.</p>
 <p>Os projetos contidos neste repositório usam de componentes como LEDs, Buzzers, Push Buttons, teclados matriciais e sensores de fumaça, distância, luminosidade, temperatura e movimento, além do componente do Arduino Uno R3 e de Protoboard.</p>
 <p>PS: Agradecemos ao <a href="https://github.com/GustavoHMotta">Gustavo Motta</a> por nos ajudar a fazer alguns projetos, e ao <a href="https://github.com/LuizGustavoDuarte">Luiz Gustavo</a> por nos ajudar a montar este repositório.</p>
 </html>

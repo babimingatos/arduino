@@ -21,4 +21,5 @@ void loop()
          Serial.println("Fumaca NÃO DETECTADA!");
       Serial.print(sensorValue);
   delay(1000); // Wait for 1000 millisecond(s)
-    }}
+    }
+}

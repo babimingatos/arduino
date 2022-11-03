@@ -18,6 +18,9 @@ Este projeto consiste no uso do Arduíno para ativar um sinal sonoro (representa
 Para se montar este circuito, é preciso, primeiramente, ligar o pino negativo do Buzzer em uma porta GND do Arduino, e o pino positivo em uma porta PWM do Arduino (no caso, a escolhida foi a 10), com ou sem a ajuda de jumpers ou do Protoboard.
 Depois, deve-se ligar os LEDs pelo pino negativo também uma porta GND mas pelo pino positivo a uma porta digital cada (sendo as portas escolhidas 5 e 2), também com ou sem a ajuda dos jumpers e do Protoboard.
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/72284498/199761156-9b48ea15-9730-4062-8f1c-078b49e6eb27.png" width=50%>
+</div>
 ## Descrição do código
 
 Primeiramente, o código declara três variáveis: a nomeada "frequência", que determinará a intensidade em que o som do Buzzer será representado; a nomeada "tempo", com valor de 10, que representa a quantidade de milissegundos na qual cada intensidade de som do Buzzer será reproduzida; e a nomeada "Pinofalante", também com valor de 10, mas que representa a porta do Arduino que será utilizada para cumprir a função, somente para especificar melhor qual é a função do pino quando ele for declarado na função setup, junto com a declaração dos pinos digitais dos LEDs azul e vermelho. 

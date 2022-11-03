@@ -11,7 +11,9 @@ Neste circuito, o Sensor Ultrassonico HC-SR04, cujo estado é monitorado no moni
 
 ## Montagem
 Para se montar o circuito, como é mostrado na imagem desta pasta, é preciso conectar os pinos do sensor de distância no Arduíno: o Vcc na entrada de 5V, o Trigger em uma entrada de controle digital, o Echo em outra de controle digital e o GND na entrada de mesmo nome.
-
+<div align="center">
+<img src="https://user-images.githubusercontent.com/72284498/199760782-df18be37-9456-4138-ad84-260ef0bfc406.png" width=50%>
+</div>
 ## Descrição do circuito
 
 Como se mostra no código desta pasta, o programa primeiramente indica ao Arduino que serão utilizados comandos da biblioteca Ultrasonic, que deve ser instalada separadamente à IDE do Arduino. Depois, os pinos comutadores do sensor ultrassônico são numerados, com o pino 12 sendo o de trigger e o 11 sendo o de echo, e o sensor ultrassônico é inicializado nestas condições.

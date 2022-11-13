@@ -6,11 +6,8 @@ Neste circuito, o Sensor PIR, junto com o monitor serial, vai ser utilizado em u
 
 ```sh
 • 1 Protoboard
-
 • 1 Sensor PIR
-
 • 18 jumpers
-
 • 1 monitor LCD
 ```
 

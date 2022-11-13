@@ -80,69 +80,63 @@
 ## [Sensor de Distância](https://github.com/babimingatos/arduino/tree/main/Sensor%20de%20Distância)
 <html>
   <figure>
-    <img src="https://github.com/babimingatos/arduino/blob/main/Sensor%20de%20Distância/sensor_de_distancia.jpg"></img>
+    <img src="https://user-images.githubusercontent.com/72284498/199760782-df18be37-9456-4138-ad84-260ef0bfc406.png"></img>
   </figure>
 </html>
 
 ## [Sensor de Distância com Buzzer](https://github.com/babimingatos/arduino/tree/main/Sensor%20de%20Distância%20com%20Buzzer)
 <html>
   <figure>
-    <img src="https://github.com/babimingatos/arduino/blob/main/Sensor%20de%20Distância%20com%20Buzzer/sensor_de_distancia_com_buzzer.jpg"></img>
+    <img src="https://user-images.githubusercontent.com/72284498/199760123-4e436838-f4fa-490e-92dd-d676de505653.png"></img>
   </figure>
 </html>
 
 ## [Sensor de Capacitância](https://github.com/babimingatos/arduino/tree/main/Sensor%20de%20Capacitância)
 <html>
   <figure>
-    <img src="https://github.com/babimingatos/arduino/blob/main/Sensor%20de%20Capacitância/sensor_de_capacitancia.jpg"></img>
+    <img src="https://user-images.githubusercontent.com/72284498/201550708-fd10d170-be1c-47e9-9045-bb0c4cd152cc.png"></img>
   </figure>
 </html>
 
 ## [Sensor de Fumaça](https://github.com/babimingatos/arduino/tree/main/Sensor%20de%20Fumaça)
 <html>
   <figure>
-    <img src="https://github.com/babimingatos/arduino/blob/main/Sensor%20de%20Fumaça/sensor_de_fumaça.jpg"></img>
+    <img src="https://github.com/babimingatos/arduino/blob/eaa498868461fbb472b10351034d7a4e109d4554/Sensor%20de%20Fuma%C3%A7a/sensor_de_fuma%C3%A7a.jpg?raw=true"></img>
   </figure>
 </html>
 
-## [Sensor de Movimento](https://github.com/babimingatos/arduino/tree/main/Sensor%20de%20Movimento)
-<html>
-  <figure>
-    <img src="https://github.com/babimingatos/arduino/blob/main/Sensor%20de%20Movimento/sensor_de_movimento.jpg"></img>
-  </figure>
-</html>
 
 ## [Sensor Movimento com LED](https://github.com/babimingatos/arduino/tree/main/Sensor%20Movimento%20com%20LED)
 <html>
   <figure>
-    <img src="https://github.com/babimingatos/arduino/blob/main/Sensor%20Movimento%20com%20LED/sensor_de_movimento_com_led.jpg"></img>
+    <img src="https://user-images.githubusercontent.com/72284498/199759492-4a044424-ebec-4329-8b2f-5db5aa75168c.png"></img>
   </figure>
 </html>
 
 ## [Sensor Movimento com Monitor LCD](https://github.com/babimingatos/arduino/tree/main/Sensor%20Movimento%20com%20Monitor%20LCD)
 <html>
   <figure>
-    <img src="https://github.com/babimingatos/arduino/blob/main/Sensor%20Movimento%20com%20Monitor%20LCD/Sensor de Movimento LCD.png"></img>
+    <img src="https://user-images.githubusercontent.com/72284498/201550256-dffcd535-198a-4853-ad44-1c87dbc95457.png"></img>
   </figure>
 </html>
 
 ## [Sensor de Temperatura](https://github.com/babimingatos/arduino/tree/main/Sensor%20de%20Temperatura)
 <html>
   <figure>
-    <img src="https://github.com/babimingatos/arduino/blob/main/Sensor%20de%20Temperatura/sensor_de_temperatura.jpeg"></img>
+    <img src="https://user-images.githubusercontent.com/72284498/201550492-e1053d47-32ad-4c7f-b77c-a7063be321ee.png"></img>
   </figure>
 </html>
 
 ## [Sensor de Luminosidade](https://github.com/babimingatos/arduino/tree/main/Sensor%20de%20Luminosidade)
 <html>
   <figure>
-    <img src="https://github.com/babimingatos/arduino/blob/main/Sensor%20de%20Luminosidade/Luminosidade.jpeg"></img>
+    <img src="https://user-images.githubusercontent.com/72284498/201551083-ae06da15-f803-4b57-9e7b-cbf52c994aca.png"></img>
   </figure>
 </html>
 
 ## [Sensor de Luminosidade com LED](https://github.com/babimingatos/arduino/tree/main/Sensor%20de%20Luminosidade%20com%20Led)
 <html>
   <figure>
-    <img src="https://github.com/babimingatos/arduino/blob/main/Sensor%20de%20Luminosidade%20com%20Led/Com Led.jpeg"></img>
+    <img src="https://user-images.githubusercontent.com/72284498/201550847-2994d541-9cc4-4941-a011-d45190773eef.png"></img>
   </figure>
 </html>

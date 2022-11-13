@@ -27,4 +27,3 @@ O programa primeiramente chama a biblioteca com comandos relevantes ao sensor ca
 Depois, na função setup, a taxa de transmissão de dados é definida para 9600 bits por segundo, e o pino do LED é definido como OUTPUT, para receber dados.
 
 Por fim, tem a função loop, em que: é definida uma variável que guarda os dados enviados pelo sensor, a fim de que eles sejam mostrados no monitor serial (para monitoração do programa); é colocada uma estrutura condicional, que diz para o Arduino acender o LED quando o valor de entrada no sensor for maior do que o threshold, e deixar apagado quando não estiver; e é colocado um atraso de 10 segundos.
-

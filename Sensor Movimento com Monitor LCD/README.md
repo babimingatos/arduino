@@ -29,5 +29,3 @@ Como se mostra na figura, o programa primeiramente inclui a biblioteca LiquidCry
 Após isto, na função setup, é enviado o comando Serial.begin(9600), depois o monitor LCD é inicializado com dimensões 16x2, com o seu cursor começando na posição 0,0, e por fim a porta da variável PIR é definida como entrada.
 
 Depois, na função loop, é declarada uma variável "acionamento", que vai ter o valor lido pelo sensor, e uma estrutura if else que diz para, se movimento for detectado, o LCD limpar a tela, indicar por uma frase que foi detectado movimento, depois é dado um atraso de 100 ms, depois o LCD liga sua tela, e depois de outro atraso de 100 ms o display é limpo novamente, e para se movimento não for detectado, o cursor ser colocado na posição 1,1 e imprimir uma mensagem de que não foi detectado movimento.
-
-

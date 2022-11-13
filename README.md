@@ -59,21 +59,21 @@
 ## [Sirene Giroflex 1](https://github.com/babimingatos/arduino/tree/main/Sirene%20Giroflex%201)
 <html>
   <figure>
-    <img src="https://github.com/babimingatos/arduino/blob/main/Sirene%20Giroflex%201/sirene_com_giroflex_1.jpg"></img>
+    <img src="https://user-images.githubusercontent.com/72284498/199761156-9b48ea15-9730-4062-8f1c-078b49e6eb27.png"></img>
   </figure>
 </html>
 
 ## [Semáforo Simples](https://github.com/babimingatos/arduino/tree/main/Semáforo%20Simples)
 <html>
   <figure>
-    <img src="https://github.com/babimingatos/arduino/blob/main/Semáforo%20Simples/semaforo_simples.jpg"></img>
+    <img src="https://user-images.githubusercontent.com/72284498/199758602-f52a0bd4-6161-4893-86a1-2e66b31a161c.png"></img>
   </figure>
 </html>
 
 ## [Semáforo Duplo](https://github.com/babimingatos/arduino/tree/main/Semáforo%20Duplo)
 <html>
   <figure>
-    <img src="https://github.com/babimingatos/arduino/blob/main/Semáforo%20Duplo/semaforo_duplo.jpg"></img>
+    <img src="https://user-images.githubusercontent.com/72284498/199758096-92d53071-9c95-4512-bbd1-fd0fbc4e0e0d.png"></img>
   </figure>
 </html>
 

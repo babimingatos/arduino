@@ -19,7 +19,7 @@ Neste circuito, o Sensor PIR, junto com o monitor serial, vai ser utilizado em u
 Para se montar o circuito, como é mostrado na figura abaixo, é preciso, primeiramente, conectar os pinos do sensor de movimento no Arduino: o mais à esquerda na entrada de controle (no caso, o pino 8), o central, de Vcc, no 5V, e o mais à direita no GND. Depois, deve se conectar os pinos do monitor LCD no Arduino, sendo que: os pinos 1, 5 e 16 em entradas GND; o pino 2 numa entrada de +5V; e os pinos 4, 6, 11, 12, 13 e 14 nas entradas de controle 9, 10, 5, 4, 3 e 2.
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/72284498/194414939-d7c55a9d-2781-4f7a-9fb6-50cc1c19c9da.png" width=50%>
+<img src="https://user-images.githubusercontent.com/72284498/201550256-dffcd535-198a-4853-ad44-1c87dbc95457.png" width=50%>
 </div>
 ## Descrição do Circuito
 

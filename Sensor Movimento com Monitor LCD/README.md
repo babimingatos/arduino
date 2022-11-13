@@ -21,6 +21,7 @@ Para se montar o circuito, como é mostrado na figura abaixo, é preciso, primei
 <div align="center">
 <img src="https://user-images.githubusercontent.com/72284498/201550256-dffcd535-198a-4853-ad44-1c87dbc95457.png" width=50%>
 </div>
+
 ## Descrição do Circuito
 
 Como se mostra na figura, o programa primeiramente inclui a biblioteca LiquidCrystal, que contém comandos relacionados ao LCD, depois define os pinos de controle utilizados pelo LCD, e então cria uma variável PIR referente ao pino 8.
